@@ -47,7 +47,7 @@ You can spin up a deliberately vulnerable server locally to test MethodHunter:
 
 1. Download a file named as insecure_server.py
 2. Run the server: sudo python3 insecure_server.py
-3. Upload a file manually: curl -X PUT http://127.0.0.1:80/test.html -d '<script>alert(document.cookie)</script>'
+3. Upload a file manually: curl -X PUT http://127.0.0.1:80/test.html -d '<h1>alert(1)</h1>'
 4. Or test with the tool:
 
 - python3 method_hunter-v3.py -u http://127.0.0.1:80
