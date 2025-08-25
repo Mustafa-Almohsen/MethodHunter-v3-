@@ -37,14 +37,6 @@ python3 method_hunter-v3.py -u htt*://target.com
 
 python3 method_hunter-v3.py -u htt*://target.com
 
-[*] Testing HTTP methods for: htt*://target.com
-✅ OPTIONS: OPTIONS blocked (HTTP 501)
-🚨 PUT: PUT confirmed exploitable at htt*://target/mhunter_b43de0bbbcc5465a8f9b1a7ba4cb635d.txt
-✅ DELETE: DELETE blocked (HTTP 501)
-✅ PATCH: PATCH blocked (HTTP 501)
-✅ TRACE: TRACE blocked (HTTP 501)
-✅ CONNECT: CONNECT blocked (HTTP 501)
-[+] Results saved to results.txt
 
 ----- 
 
