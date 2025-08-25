@@ -31,8 +31,6 @@ Saves results into results.txt for later review.
 Simple CLI usage for quick assessments.
 ------
 
-🖥️ Usage
-
 python3 method_hunter-v3.py -u htt*://target.com
 
 -h, --help → show help message
