@@ -50,3 +50,6 @@ You can spin up a deliberately vulnerable server locally to test MethodHunter:
 4. Or test with the tool:
 
 - python3 method_hunter-v3.py -u htt*://127.0.0.1:80
+
+  <img width="1269" height="323" alt="image" src="https://github.com/user-attachments/assets/a633b9a7-95e9-46ca-a9f4-e530691f6573" />
+
